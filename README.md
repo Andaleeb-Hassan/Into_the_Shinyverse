@@ -11,4 +11,5 @@ An interactive statistical learning application developed as an **R-Fest project
 `R` · `Shiny` · `ggplot2` · `tidyverse`
 
 ### Development Note
-The initial codebase was **written by hand in 2024** as an R-Fest project. It was subsequently augmented with AI assistance for improved documentation, code refinement, and error detection and correction.# Into_the_Shinyverse
+The initial codebase was **written by hand in 2024** as an R-Fest project. It was subsequently augmented with AI assistance for improved documentation, code refinement, and error detection and correction.
+
